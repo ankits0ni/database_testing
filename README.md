@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This document details a comprehensive heuristic evaluation of the eConestoga application, conducted to identify usability issues and suggest improvements. The evaluation is based on Nielsen's ten heuristics, which serve as a guideline for understanding common usability principles. By systematically examining the application against these heuristics, we aim to enhance its user experience, ensuring it is intuitive and efficient for users. Each identified issue is accompanied by a recommendation and a severity rating to prioritize the necessary changes.
+This heuristic evaluation assesses the usability of the eConestoga application, conducted by me, Ankit Soni. The evaluation is based on Nielsen's ten heuristics, aiming to identify usability issues and recommend improvements. Each issue identified reflects my analysis and understanding of user interaction challenges within the application. The recommendations provided are tailored to enhance user experience and usability, ensuring the application meets the expectations of its users effectively.
 
 ---
 
@@ -39,7 +39,6 @@ This document details a comprehensive heuristic evaluation of the eConestoga app
 
 ## Conclusion
 
-The heuristic evaluation of the eConestoga application has highlighted several key areas where usability improvements are needed. By addressing the identified issues, particularly those with higher severity ratings, the application can become more user-friendly and efficient. Implementing the recommendations will not only resolve the current usability problems but also contribute to a more seamless and satisfying user experience. Prioritizing these changes will ensure that eConestoga meets the needs and expectations of its users effectively.
+In conclusion, this evaluation of the eConestoga application has been meticulously conducted to uncover areas where usability improvements are necessary. The recommendations provided stem from my analysis and understanding of the application's usability challenges. By prioritizing these improvements, I aim to ensure that eConestoga becomes more intuitive and user-friendly, thereby enhancing the overall user experience. This iterative process of evaluation and refinement will contribute significantly to meeting user expectations and achieving high standards of usability.
 
 ---
-
