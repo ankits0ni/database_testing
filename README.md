@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This document presents my heuristic evaluation of the eConestoga application, focusing on identifying usability issues based on Nielsen's ten heuristics. The evaluation aims to provide insights into how well the application meets usability standards and to suggest improvements that can enhance user experience. Each heuristic violation is analyzed from my perspective, with recommendations provided to address these issues effectively.
+This document presents my evaluation of the eConestoga application's usability, focusing on identifying key issues based on Nielsen's heuristics. The evaluation aims to assess how well the application meets usability standards and proposes enhancements to improve the user experience.
 
 ---
 
@@ -26,7 +26,7 @@ This document presents my heuristic evaluation of the eConestoga application, fo
 |---------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------|
 | **1. Visibility of System Status**          | The application fails to consistently display a loading indicator during data fetching processes.       | Implement a consistent loading spinner or progress bar to inform users about ongoing processes.                  | 3            |
 | **2. Match Between System and the Real World** | Error messages contain technical jargon that may confuse users rather than clarify issues.             | Use plain language in error messages to ensure they are easily understandable by all users.                      | 2            |
-| **3. User Control and Freedom**             | Users lack an option to undo or redo actions, especially when navigating between different modules.    | Introduce an 'Undo' feature and a 'Back' button to provide users more control over their actions.                | 3            |
+| **3. User Control and Freedom**             | Users lack an option to undo or redo actions, especially when navigating between different modules.    | Introduce an ‘Undo’ feature and a ‘Back’ button to provide users more control over their actions.                | 3            |
 | **4. Consistency and Standards**            | Button styles across different sections of the application vary, leading to user confusion.            | Standardize button styles and colors across the application to maintain a cohesive user interface.               | 2            |
 | **5. Error Prevention**                     | Mandatory form fields are not clearly marked, resulting in incomplete submissions.                     | Implement client-side validation to ensure all required fields are filled out before form submission.           | 3            |
 | **6. Recognition Rather Than Recall**       | Users must remember the exact path they took to navigate to specific sections of the application.      | Introduce breadcrumb navigation to help users easily track and return to previous sections.                       | 2            |
@@ -39,6 +39,6 @@ This document presents my heuristic evaluation of the eConestoga application, fo
 
 ## Conclusion
 
-In conclusion, this heuristic evaluation highlights critical areas where the eConestoga application can improve its usability. The recommendations provided are based on my analysis and understanding of user interaction challenges within the app. By addressing these issues, eConestoga can enhance its user interface and experience, ultimately leading to higher user satisfaction and efficiency. Continuous evaluation and refinement based on user feedback will be crucial in maintaining and improving usability standards over time.
+In conclusion, this evaluation identifies critical areas where the eConestoga application can improve its usability. The recommendations provided are tailored to address these issues and enhance the user interface and experience. By implementing these improvements and continuously gathering user feedback, eConestoga can maintain and improve its usability standards over time, resulting in higher user satisfaction and efficiency.
 
 ---
